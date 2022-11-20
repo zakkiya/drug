@@ -14,8 +14,8 @@ from sklearn.datasets import make_classification
 from sklearn.svm import SVC
 
 st.write(""" 
-# APLIKASI CREDIT BANK
-Oleh Ahmad Dani Kurniawan (200411100205)
+# APLIKASI CEK OBAT
+Zakkiya Fitri Nur Sa'adah (200411100097)
 """)
 
 st.write("=========================================================================")
